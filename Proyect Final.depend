@@ -1,0 +1,128 @@
+# depslib dependency file v1.0
+1578959645 source:c:\users\francisco v\documents\francisco v\google drive\estudio\ipl\programacao\proyecto final\proyect final\basicas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Basica.h"
+	"Estructuras.h"
+	"Estudiantes.h"
+	"Registrar.h"
+
+1578954108 c:\users\francisco v\documents\francisco v\google drive\estudio\ipl\programacao\proyecto final\proyect final\basica.h
+	"Constantes.h"
+	"Estructuras.h"
+
+1578848900 c:\users\francisco v\documents\francisco v\google drive\estudio\ipl\programacao\proyecto final\proyect final\constantes.h
+
+1578959559 c:\users\francisco v\documents\francisco v\google drive\estudio\ipl\programacao\proyecto final\proyect final\estructuras.h
+	"Constantes.h"
+
+1578958007 c:\users\francisco v\documents\francisco v\google drive\estudio\ipl\programacao\proyecto final\proyect final\estudiantes.h
+	"Estructuras.h"
+
+1578958182 source:c:\users\francisco v\documents\francisco v\google drive\estudio\ipl\programacao\proyecto final\proyect final\estudiante.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"Estudiantes.h"
+	"Constantes.h"
+	"Basica.h"
+
+1578955530 source:c:\users\francisco v\documents\francisco v\google drive\estudio\ipl\programacao\proyecto final\proyect final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Estructuras.h"
+	"Menu.h"
+	"Estudiantes.h"
+	"Basica.h"
+	"Registrar.h"
+	"pTipoC.h"
+	"Preguntas.h"
+
+1578954108 c:\users\francisco v\documents\francisco v\google drive\estudio\ipl\programacao\proyecto final\proyect final\menu.h
+
+1578957700 c:\users\francisco v\documents\francisco v\google drive\estudio\ipl\programacao\proyecto final\proyect final\registrar.h
+	"Estudiantes.h"
+
+1578400209 c:\users\francisco v\documents\francisco v\google drive\estudio\ipl\programacao\proyecto final\proyect final\ptipoc.h
+
+1578959738 source:c:\users\francisco v\documents\francisco v\google drive\estudio\ipl\programacao\proyecto final\proyect final\menu.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	"Estudiantes.h"
+	"Basica.h"
+
+1578959014 source:c:\users\francisco v\documents\francisco v\google drive\estudio\ipl\programacao\proyecto final\proyect final\ptipoa.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<stdlib.h>
+	"Basica.h"
+	"pTipoA.h"
+	"Estudiantes.h"
+	"Registrar.h"
+
+1578958746 c:\users\francisco v\documents\francisco v\google drive\estudio\ipl\programacao\proyecto final\proyect final\ptipoa.h
+
+1578400013 source:c:\users\francisco v\documents\francisco v\google drive\estudio\ipl\programacao\proyecto final\proyect final\ptipob.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<stdlib.h>
+	"pTipoB.h"
+	"Basica.h"
+
+1578400013 c:\users\francisco v\documents\francisco v\google drive\estudio\ipl\programacao\proyecto final\proyect final\ptipob.h
+	"Registrar.h"
+
+1578401009 source:c:\users\francisco v\documents\francisco v\google drive\estudio\ipl\programacao\proyecto final\proyect final\ptipoc.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<stdlib.h>
+	"Basica.h"
+	"pTipoC.h"
+	"Estudiantes.h"
+	"Estructuras.h"
+	"Registrar.h"
+
+1578957799 source:c:\users\francisco v\documents\francisco v\google drive\estudio\ipl\programacao\proyecto final\proyect final\registrar.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	"Registrar.h"
+	"Basica.h"
+	"Constantes.h"
+	"Estudiantes.h"
+	"pTipoA.h"
+	"pTipoC.h"
+	"pTipoB.h"
+	"pTipoD.h"
+
+1578946907 c:\users\francisco v\documents\francisco v\google drive\estudio\ipl\programacao\proyecto final\proyect final\preguntas.h
+	"Estructuras.h"
+
+1578960001 source:c:\users\francisco v\documents\francisco v\google drive\estudio\ipl\programacao\proyecto final\proyect final\preguntas.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	"Registrar.h"
+	"Basica.h"
+	"Constantes.h"
+	"Estudiantes.h"
+
+1578959183 source:c:\users\francisco v\documents\francisco v\google drive\estudio\ipl\programacao\proyecto final\proyect final\ptipod.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"Estudiantes.h"
+	"Constantes.h"
+	"Basica.h"
+	"Preguntas.h"
+	"pTipoD.h"
+	"Registrar.h"
+
+1578861103 c:\users\francisco v\documents\francisco v\google drive\estudio\ipl\programacao\proyecto final\proyect final\ptipod.h
+

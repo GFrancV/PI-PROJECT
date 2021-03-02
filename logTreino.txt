@@ -1,0 +1,207 @@
+
+Codigo do Treino: 1	Tipo de prova.D
+Codigo de Estudante: 1
+Data Realisacao: 1-1-2020	Hora Realisacao: 01:01
+Estado: Concluido
+Quantidade de perguntas: 4
+Pocentage de respostas correctas: 0.00%
+Nota do Treino: 1.25	Tempo de Treino: 1 min
+--------------------------------------------------------
+
+Codigo do Treino: 1	Tipo de prova.A
+Codigo de Estudante: 1
+Data Realisacao: 1-1-2020	Hora Realisacao: 01:01
+Estado: Concluido
+Quantidade de perguntas: 4
+Pocentage de respostas correctas: 25.00%
+Nota do Treino: 1.25	Tempo de Treino: 2 min
+--------------------------------------------------------
+
+Codigo do Treino: 2	Tipo de prova.A
+Codigo de Estudante: 1
+Data Realisacao: 1-1-2020	Hora Realisacao: 01:01
+Estado: Concluido
+Quantidade de perguntas: 4
+Pocentage de respostas correctas: 25.00%
+Nota do Treino: 1.25	Tempo de Treino: 3 min
+--------------------------------------------------------
+
+Codigo do Treino: 1	Tipo de prova.D
+Codigo de Estudante: 1
+Data Realisacao: 1-1-2020	Hora Realisacao: 01:01
+Estado: Concluido
+Quantidade de perguntas: 4
+Pocentage de respostas correctas: 0.00%
+Nota do Treino: 1.25	Tempo de Treino: 2 min
+--------------------------------------------------------
+
+Codigo do Treino: 2	Tipo de prova.A
+Codigo de Estudante: 1
+Data Realisacao: 1-1-2020	Hora Realisacao: 01:01
+Estado: Concluido
+Quantidade de perguntas: 4
+Pocentage de respostas correctas: 25.00%
+Nota do Treino: 1.25	Tempo de Treino: 3 min
+--------------------------------------------------------
+
+Codigo do Treino: 3	Tipo de prova.D
+Codigo de Estudante: 1
+Data Realisacao: 1-1-2020	Hora Realisacao: 01:01
+Estado: Concluido
+Quantidade de perguntas: 4
+Pocentage de respostas correctas: 0.00%
+Nota do Treino: 1.25	Tempo de Treino: 5 min
+--------------------------------------------------------
+
+Codigo do Treino: 1	Tipo de prova.A
+Codigo de Estudante: 1
+Data Realisacao: 1-1-2020	Hora Realisacao: 01:01
+Estado: Concluido
+Quantidade de perguntas: 4
+Pocentage de respostas correctas: 25.00%
+Nota do Treino: 1.25	Tempo de Treino: 5 min
+--------------------------------------------------------
+
+Codigo do Treino: 2	Tipo de prova.A
+Codigo de Estudante: 1
+Data Realisacao: 1-1-2020	Hora Realisacao: 01:01
+Estado: Concluido
+Quantidade de perguntas: 4
+Pocentage de respostas correctas: 25.00%
+Nota do Treino: 1.25	Tempo de Treino: 2 min
+--------------------------------------------------------
+
+Codigo do Treino: 1	Tipo de prova.A
+Codigo de Estudante: 1
+Data Realisacao: 1-1-2020	Hora Realisacao: 01:01
+Estado: Concluido
+Quantidade de perguntas: 4
+Pocentage de respostas correctas: 25.00%
+Nota do Treino: 1.25	Tempo de Treino: 5 min
+--------------------------------------------------------
+
+Codigo do Treino: 2	Tipo de prova.A
+Codigo de Estudante: 1
+Data Realisacao: 1-1-2020	Hora Realisacao: 01:01
+Estado: Concluido
+Quantidade de perguntas: 4
+Pocentage de respostas correctas: 25.00%
+Nota do Treino: 1.25	Tempo de Treino: 2 min
+--------------------------------------------------------
+
+Codigo do Treino: 1	Tipo de prova.D
+Codigo de Estudante: 1
+Data Realisacao: 1-1-2020	Hora Realisacao: 01:01
+Estado: Concluido
+Quantidade de perguntas: 4
+Pocentage de respostas correctas: 0.00%
+Nota do Treino: 1.25	Tempo de Treino: 10 min
+--------------------------------------------------------
+
+Codigo do Treino: 2	Tipo de prova.A
+Codigo de Estudante: 1
+Data Realisacao: 1-1-2020	Hora Realisacao: 01:01
+Estado: Concluido
+Quantidade de perguntas: 4
+Pocentage de respostas correctas: 25.00%
+Nota do Treino: 1.25	Tempo de Treino: 4 min
+--------------------------------------------------------
+
+Codigo do Treino: 1	Tipo de prova.A
+Codigo de Estudante: 1
+Data Realisacao: 1-1-2020	Hora Realisacao: 01:01
+Estado: Concluido
+Quantidade de perguntas: 4
+Pocentage de respostas correctas: 100.00%
+Nota do Treino: 20.00	Tempo de Treino: 2 min
+--------------------------------------------------------
+
+Codigo do Treino: 2	Tipo de prova.A
+Codigo de Estudante: 1
+Data Realisacao: 1-1-2020	Hora Realisacao: 01:01
+Estado: Concluido
+Quantidade de perguntas: 4
+Pocentage de respostas correctas: 0.00%
+Nota do Treino: 0.00	Tempo de Treino: 1 min
+--------------------------------------------------------
+
+Codigo do Treino: 1	Tipo de prova.A
+Codigo de Estudante: 1
+Data Realisacao: 1-1-2020	Hora Realisacao: 01:01
+Estado: Concluido
+Quantidade de perguntas: 4
+Pocentage de respostas correctas: 100.00%
+Nota do Treino: 20.00	Tempo de Treino: 2 min
+--------------------------------------------------------
+
+Codigo do Treino: 2	Tipo de prova.A
+Codigo de Estudante: 1
+Data Realisacao: 1-1-2020	Hora Realisacao: 01:01
+Estado: Concluido
+Quantidade de perguntas: 4
+Pocentage de respostas correctas: 50.00%
+Nota do Treino: 7.50	Tempo de Treino: 2 min
+--------------------------------------------------------
+
+Codigo do Treino: 3	Tipo de prova.A
+Codigo de Estudante: 1
+Data Realisacao: 1-1-2020	Hora Realisacao: 01:01
+Estado: Concluido
+Quantidade de perguntas: 4
+Pocentage de respostas correctas: 0.00%
+Nota do Treino: 0.00	Tempo de Treino: 1 min
+--------------------------------------------------------
+
+Codigo do Treino: 1	Tipo de prova.A
+Codigo de Estudante: 1
+Data Realisacao: 1-1-2020	Hora Realisacao: 01:01
+Estado: Concluido
+Quantidade de perguntas: 4
+Pocentage de respostas correctas: 100.00%
+Nota do Treino: 20.00	Tempo de Treino: 1 min
+--------------------------------------------------------
+
+Codigo do Treino: 2	Tipo de prova.A
+Codigo de Estudante: 1
+Data Realisacao: 1-1-2020	Hora Realisacao: 01:01
+Estado: Concluido
+Quantidade de perguntas: 4
+Pocentage de respostas correctas: 25.00%
+Nota do Treino: 1.25	Tempo de Treino: 1 min
+--------------------------------------------------------
+
+Codigo do Treino: 1	Tipo de prova.A
+Codigo de Estudante: 1
+Data Realisacao: 1-1-2020	Hora Realisacao: 01:01
+Estado: Concluido
+Quantidade de perguntas: 4
+Pocentage de respostas correctas: 100.00%
+Nota do Treino: 20.00	Tempo de Treino: 1 min
+--------------------------------------------------------
+
+Codigo do Treino: 2	Tipo de prova.A
+Codigo de Estudante: 1
+Data Realisacao: 1-1-2020	Hora Realisacao: 01:01
+Estado: Concluido
+Quantidade de perguntas: 4
+Pocentage de respostas correctas: 25.00%
+Nota do Treino: 1.25	Tempo de Treino: 1 min
+--------------------------------------------------------
+
+Codigo do Treino: 3	Tipo de prova.A
+Codigo de Estudante: 2
+Data Realisacao: 1-1-2020	Hora Realisacao: 01:01
+Estado: Concluido
+Quantidade de perguntas: 4
+Pocentage de respostas correctas: 50.00%
+Nota do Treino: 7.50	Tempo de Treino: 1 min
+--------------------------------------------------------
+
+Codigo do Treino: 1	Tipo de prova.D
+Codigo de Estudante: 1
+Data Realisacao: 1-1-2020	Hora Realisacao: 01:01
+Estado: Concluido
+Quantidade de perguntas: 5
+Pocentage de respostas correctas: 20.00%
+Nota do Treino: 5.00	Tempo de Treino: 1 min
+--------------------------------------------------------
